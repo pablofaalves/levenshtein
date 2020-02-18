@@ -18,7 +18,3 @@ run `javac Main.java` on your shell
 run `java Main arg0 arg1` on your shell, where arg0 and arg1 are the words which you'd like know the levenshtein distance.
 
 If you don't use any arguments, it will run a default test case.
-
-## Copyright
-
-Released under the Apache License 2.0. See the [LICENSE](https://github.com/pablofaalves/levenshtein/blob/master/LICENSE) file.
