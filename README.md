@@ -10,11 +10,11 @@ For building and running the application you need:
 
 ## Compiling
 
-run `javac Main.java` on your shell
+run `javac com/quoori/levenshtein/*.java` on your shell inside the 'src' folder
 
 
 ## Running the application
 
-run `java Main arg0 arg1` on your shell, where arg0 and arg1 are the words which you'd like know the levenshtein distance.
+run `java com.quoori.levenshtein.Main arg0 arg1` on your shell, where arg0 and arg1 are the words which you'd like know the levenshtein distance.
 
 If you don't use any arguments, it will run a default test case.
